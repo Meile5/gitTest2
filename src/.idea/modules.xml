@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-<<<<<<< HEAD
-      <module fileurl="file://$PROJECT_DIR$/SDE-47.iml" filepath="$PROJECT_DIR$/SDE-47.iml" />
-=======
-      <module fileurl="file://$PROJECT_DIR$/gitTest2.iml" filepath="$PROJECT_DIR$/gitTest2.iml" />
->>>>>>> 83f556ac0338e41f161a76c810dea5c6256d70cc
+      <module fileurl="file://$PROJECT_DIR$/.idea/src.iml" filepath="$PROJECT_DIR$/.idea/src.iml" />
     </modules>
   </component>
 </project>
